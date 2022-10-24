@@ -3,6 +3,8 @@ All preprocessing steps of images
 
 ***
 
+### Resize
+
 1) resize_pil.py
 2) resize_vips.py
 
