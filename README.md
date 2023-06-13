@@ -25,6 +25,7 @@ This code has three methods of showing image on jupyter environment.
 ### Image Contour
 This code is for finding contours of object in an image.
 
-&emsp;`contour.ipynb`<br>
+&emsp;`contour.ipynb` is for a binary image.
+
 
 
