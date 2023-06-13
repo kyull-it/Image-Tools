@@ -8,7 +8,8 @@ This codes is intended to compare image resizing and cropping speed and accuracy
 
 &emsp;`resize_pil.py`<br>
 &emsp;`resize_vips.py`<br>
- - Libvips library is much faster than pillow.<br>
+ - Libvips library is much faster than pillow.
+ 
 &emsp;`resize_cv2.py`
  - This code is specially resizing images over 100 pixels and under 1000 pixels.
 
