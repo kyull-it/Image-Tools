@@ -1,5 +1,5 @@
 # Image_Toolkits
-All preprocessing steps of images
+This repository contains codes for the common pre-processing steps of image.
 
 ***
 
