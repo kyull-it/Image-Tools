@@ -25,6 +25,6 @@ This code has three methods of showing image on jupyter environment.
 ### Image Contour
 This code is for finding contours of object in an image.
 
-&emsp;`contour.ipynb` is for a binary image.
-&emsp;`morphology_detection.ipynb` is finding texts from an image.
-&emsp;`gold-skeleton` convert an RGB image to gold skeleton (edge) image. 
+&emsp;`contour.ipynb` is for a binary image.<br>
+&emsp;`morphology_detection.ipynb` is finding texts from an image.<br>
+&emsp;`gold-skeleton` convert an RGB image to gold skeleton (edge) image. <br>
