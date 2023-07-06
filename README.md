@@ -4,7 +4,7 @@ This repository contains codes for the common pre-processing steps of image.
 ***
 
 ### Resize
-This codes is intended to compare image resizing and cropping speed and accuracy.
+The codes are to compare the speed and the accuracy of resizing and cropping an image.
 
 &emsp;- `resize_pil.py`<br>
 &emsp;- `resize_vips.py`<br>
@@ -16,11 +16,19 @@ This codes is intended to compare image resizing and cropping speed and accuracy
 ***
 
 ### Image Display
-This code has three methods of showing image on jupyter environment.
+It has three methods of showing image on jupyter environment.
 
 &emsp;- `display.ipynb`<br>
 
 ***
+
+### Adjustments
+For controlling contrast and brightness of an image
+
+&emsp;- `contrast_brightness.ipynb`<br>
+
+***
+
 
 ### Image Contour
 This code is for finding contours of object in an image.
