@@ -23,9 +23,14 @@ It has three methods of showing image on jupyter environment.
 ***
 
 ### Adjustments
-For controlling contrast and brightness of an image
 
+For controlling contrast and brightness of an image
 &emsp;- `contrast_brightness.ipynb`<br>
+
+For sharpening an image
+&emsp;- `sharpening.ipynb`<br>
+
+
 
 ***
 
