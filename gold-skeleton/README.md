@@ -2,4 +2,4 @@
 This code generates gold-skeleton image using Edge Detection.
 
 ### Example
-<img src = "gold-skeleton/data/sample_image.png"></img>
+<img src = "./data/sample_image.png"></img>
